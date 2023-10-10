@@ -9,6 +9,6 @@ Features so far-
 -> Check for cycles in the database relations
 
 
-Most of the program is based on Data structures and algorithms, such as Breadth First search, Depth first search, hashmaps, queues, etc. 
+Most of the program is based on Data structures and algorithms, such as Breadth First Search, Depth First search, hashmaps, queues, etc. 
 
 Tech Stack Used - CPP
