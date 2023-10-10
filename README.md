@@ -7,7 +7,7 @@ Features so far-
 -> Print direct reports of a Manager
 -> Print sub-organisation of a Manager
 -> Check for cycles in the database relations
--
+
 
 Most of the program is based on Data structures and algorithms, such as Breadth First search, Depth first search, hashmaps, queues, etc. 
 
